@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oie galerinha
 
 <!--
 **Mariamatos258/Mariamatos258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Eu estou cursando o Alura
+Estou me desenvolvendo no GitHub
+Utilizo essa plataforma pois sou obrigada pela Anne e pelo governo 
+00001116588584sp@al.educacao.sp.gov.br
+![](https://th.bing.com/th/id/R.49cd14365c2428d8b8333548cb01647b?rik=I8Uuj1XGtoxuYA&pid=ImgRaw&r=0)
